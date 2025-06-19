@@ -42,7 +42,7 @@ Schedul-er is a modern web application designed to streamline the class scheduli
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/schedul-er.git
+   git clone https://github.com/charwayyyyyy/Schedul-er.git
    cd schedul-er
    ```
 
